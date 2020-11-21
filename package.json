@@ -1,6 +1,7 @@
 {
-  "name": "api-routes-graphql",
+  "name": "moving-nurses",
   "version": "1.0.0",
+  "description": "A site to make it easier for nurses to apply for licenses in other locations",
   "scripts": {
     "dev": "next",
     "build": "next build",
